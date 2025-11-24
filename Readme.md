@@ -3,8 +3,8 @@
 A backend engine that processes market orders, routes them to the best Decentralized Exchange (DEX) based on price, and streams real-time updates via WebSockets.
 
 ## Public Deployment & Video
-* **Live Demo URL:** []
-* **Demo Video:** []
+* **Live Demo URL:** [ws://order-execution-engine-final.onrender.com]
+* **Demo Video:** [https://youtu.be/O21gOuK7ovQ]
 
 ## Design Decisions
 
